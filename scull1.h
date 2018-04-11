@@ -15,7 +15,11 @@
 //First MINOR NUMBER
 #ifndef SCULL_MINOR_START
 #define SCULL_MINOR_START 0
+#endif
 
 //SCULL MAJOR NUMBER(Set to 0 for dynamic allocation)
 #ifndef SCULL_MAJOR
 #define SCULL_MAJOR 0
+#endif
+
+#endif
